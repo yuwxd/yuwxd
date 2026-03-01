@@ -1,10 +1,10 @@
 <div align="center">
 
-# hey, I'm o9qq
+# hey, I'm yuw
 
 ![Profile views](https://komarev.com/ghpvc/?username=o9qq&color=24292e&style=flat-square)
 
-**he/him** · [yuw.lol](https://yuw.lol)
+**he/him**
 
 </div>
 
