@@ -25,11 +25,11 @@
 
 ### stats
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=o9qq&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=o9qq&show_icons=true&theme=github_dark&hide_border=true&count_private=true&v=2" alt="GitHub Stats" width="400" />
 
-<img src="https://streak-stats.demolab.com/?user=o9qq&theme=github-dark&hide_border=true" alt="Contribution Streak" width="400" />
+<img src="https://streak-stats.demolab.com/?user=o9qq&theme=github-dark&hide_border=true&v=2" alt="Contribution Streak" width="400" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=o9qq&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="400" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=o9qq&layout=compact&theme=github_dark&hide_border=true&langs_count=8&v=2" alt="Top Languages" width="400" />
 
 </div>
 
