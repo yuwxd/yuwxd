@@ -40,11 +40,3 @@
 [![yuw.lol](https://img.shields.io/badge/Website-yuw.lol-24292e?style=flat-square&logo=link)](https://yuw.lol)
 
 </div>
-
----
-
-<div align="center">
-
-*I do stuff.*
-
-</div>
