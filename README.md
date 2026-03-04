@@ -16,7 +16,7 @@
 
 **Vetements** — an advanced **multipurpose Discord bot**: moderation, music, AI, media tools, games, crypto, GitHub lookups, and more.  
 *One bot, many features.*
-*Visit [vetements.lol](https://vetements.lol/) to see what I created till now.*
+*Visit [vetements.lol](https://vetements.lol/) to see what I've created till now.*
 
 </div>
 
