@@ -14,7 +14,7 @@
 
 ### currently building
 
-**shiver** — an advanced **multipurpose Discord bot**: moderation, music, AI, media tools, games, crypto, GitHub lookups, and more.  
+**shiver** - an advanced **multipurpose Discord bot**: music, AI, media tools, games, roleplay, crypto, profile lookups, and more.  
 *One bot, many features.*  
 *Visit [shiver.one](https://shiver.one/) to see what I've created till now.*
 
