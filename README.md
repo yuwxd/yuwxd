@@ -4,8 +4,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=yuwxd&color=24292e&style=flat-square)
 
-**he/him**
-
 </div>
 
 ---
